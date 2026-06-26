@@ -88,3 +88,7 @@ footer{
     margin-top: 5px;
     font-size: 14px;
 }
+.outro{
+    text-decoration: none;
+    color: rgb(226, 108, 128);
+}
